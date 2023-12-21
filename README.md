@@ -1,6 +1,5 @@
 # Taunahi
-
-## [DOWNLOAD](https://github.com/HypixelSkyblockmod/Taunahi/releases/tag/release)
+[DOWNLOAD](https://github.com/HypixelSkyblockmod/Taunahi/releases/tag/release)
 
 ## Farming
 
